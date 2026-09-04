@@ -1,0 +1,9 @@
+# python logical operators exercise
+a=10
+result=a>500 and a<300 #logical operators
+print("result of" ,a," > 500 and" ,a,"<30:",result,)
+
+a=5
+print(a<2 or a>2)
+result=a<2 and a>2
+print("result of" ,a,"<2 and",a,">2;result")
