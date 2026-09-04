@@ -1,1 +1,8 @@
-# 2026-27-sec-21-52_pythonprogrammingcourse
+# Python Programming Course
+
+- Institution: NRIU
+- Academic Year: 2026-27
+- Course: Python Programming
+- Section: Sec-21
+- Serial Number: 52
+- Student Name: shoukat
